@@ -1,3 +1,13 @@
-module.exports = {
-  extends: ['@commitlint/config-conventional']
-};
+{
+  "name": "backend-enterprise-onboarding",
+  "version": "1.0.0",
+  "description": "Day 1 onboarding task",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.3"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
