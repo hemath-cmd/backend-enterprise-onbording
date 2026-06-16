@@ -1,3 +1,3 @@
-﻿# Backend Enterprise Onboardindg
+﻿# Backend Enterprise Onboarding
 
 -mchore:intialize repo with readme
